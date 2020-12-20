@@ -53,7 +53,11 @@ steps:
     10). change MyObservatory_v4.17.12_apkpure.com.apk to MyObservatory_v4.17.12_apkpure.com.apk.zip
     11). uzip MyObservatory_v4.17.12_apkpure.com.apk.zip
     12). brew install dex2jar
-    13).
-    14). download JD-GUI  https://mac.filehorse.com/download-jd-gui-java-decompiler/  jd-gui-osx-1.6.6.tar
+    13). copy classes.dex (from step 11) to dex2jar/bin
+    14). d2j-dex2jar classes.dex to get ./classes-dex2jar.jar
+    15). download JD-GUI  https://mac.filehorse.com/download-jd-gui-java-decompiler/  jd-gui-osx-1.6.6.tar
+    16). open classes-dex2jar.jar via JD-GUI to view the source code
+    17). download frida-gadget https://github.com/frida/frida/releases/  frida-gadget-14.2.2-android-arm64.so.xz
+    18). 
     
     
