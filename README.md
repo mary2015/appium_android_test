@@ -58,6 +58,33 @@ steps:
     15). download JD-GUI  https://mac.filehorse.com/download-jd-gui-java-decompiler/  jd-gui-osx-1.6.6.tar
     16). open classes-dex2jar.jar via JD-GUI to view the source code
     17). download frida-gadget https://github.com/frida/frida/releases/  frida-gadget-14.2.2-android-arm64.so.xz
-    18). 
+    18). Injecting smali hook:
+                           <activity android:configChanges="orientation" android:label="@string/app_name" android:name="hko.MyObservatory_v1_0.AgreementPage"                    android:noHistory="true" android:screenOrientation="portrait">
+                          <intent-filter>
+                              <action android:name="android.intent.action.MAIN"/>
+                              <category android:name="android.intent.category.LAUNCHER"/>
+                          </intent-filter>
+                      </activity>
+            there must be a smali file named AgreementPage.smali. find the constuctor function
+            update the locals to locals+1
+            append two lines : 
+                  const-string v2, "frida-gadget"
+                  invoke-static {v2}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
+        
+     19). apktool.yml update versionCode to versionCode+1
+     20). apktool b  /Users/rongyao.ma/testfolder/package/MyObservatory.com  -o /Users/rongyao.ma/testfolder/MyObservatory.apk
+     21). sign the new apk
+          keytool -genkey -v -keystore /Users/rongyao.ma/testfolder/key.keystore -alias alex -keyalg RSA -keysize 2048 -validity 10000
+          jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore /Users/rongyao.ma/testfolder/key.keystore /Users/rongyao.ma/testfolder/ alex
+          jarsigner -verify MyObservatory.apk
+     22). zipalign -v 4 /Users/rongyao.ma/testfolder/package/MyObservatory.apk /Users/rongyao.ma/testfolder/package/MyObservatory_new.apk
+     23). adb install testfolder/package/MyObservatory_v4.17.12_apkpure_align.com.apk
+     24). Tweak the frida script.
+          openssl x509 -inform der -in /Users/rongyao.ma/Desktop/FiddlerRootCertificate.crt  -out proxy-cert.pem
+     25). download frida-sslpinning.js (need to add "var" in front of cf, otherwise it throws error when runing)
+     26). open MyObservatory app on phone
+     27). frida -U gadget -l frida-sslpinning.js
+     28). fiddler gets decrypted traffic
+        
     
     
