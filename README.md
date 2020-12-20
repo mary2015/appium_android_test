@@ -85,4 +85,5 @@ response (e.g. if today is Monday, then extract the relative humidity for Wednes
      - 26). open MyObservatory app on phone
      - 27). frida -U gadget -l frida-sslpinning.js
      - 28). fiddler gets decrypted traffic
+     
 I spent 4 days on it.
