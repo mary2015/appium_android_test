@@ -5,10 +5,10 @@
 * 1. Script : 
       test_first.py
 * 2. Setup guide :
-  1.1). download appium  http://appium.io/  Appium-mac-1.18.3.dmg
-  1.2). download android studio  https://developer.android.com/studio android-studio-ide-201.6953283-mac.dmg
-  1.3). pip3 install Appium-Python-Client (or import it by pyCharm  file |other settings | Preferences for new project | Project Interpreter)
-  1.4). pip3 install pytest (or import it by pyCharm file |other settings | Preferences for new project | Project Interpreter)
+  1. 1). download appium  http://appium.io/  Appium-mac-1.18.3.dmg
+  1. 2). download android studio  https://developer.android.com/studio android-studio-ide-201.6953283-mac.dmg
+  1. 3). pip3 install Appium-Python-Client (or import it by pyCharm  file |other settings | Preferences for new project | Project Interpreter)
+  1. 4). pip3 install pytest (or import it by pyCharm file |other settings | Preferences for new project | Project Interpreter)
   5). download apk https://apkpure.com/myobservatory-我的天文台/hko.MyObservatory_v1_0 MyObservatory 我的天文台_v4.17.12_apkpure.com.apk
   6). env variables setting : 
         export ANDROID_HOME=/Users/rongyao.ma/Library/Android/sdk
