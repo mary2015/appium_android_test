@@ -1,10 +1,10 @@
-Task 1:
-Automate below test case:
-Check tomorrow weather forecast from 9-day forecast screen
+# Task 1:
+* Automate below test case:
+* Check tomorrow weather forecast from 9-day forecast screen
 
-1. Script : 
-test_first.py
-2. Setup guide :
+* 1. Script : 
+* test_first.py
+* 2. Setup guide :
   1). download appium  http://appium.io/  Appium-mac-1.18.3.dmg
   2). download android studio  https://developer.android.com/studio android-studio-ide-201.6953283-mac.dmg
   3). pip3 install Appium-Python-Client (or import it by pyCharm  file |other settings | Preferences for new project | Project Interpreter)
