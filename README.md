@@ -1,9 +1,9 @@
-Task 1:
+#Task 1:
 Automate below test case:
 Check tomorrow weather forecast from 9-day forecast screen
 
-1. Script : test_first.py
-2. Setup guide :
+*1. Script : test_first.py
+*2. Setup guide :
   1). download appium  http://appium.io/  Appium-mac-1.18.3.dmg
   2). download android studio  https://developer.android.com/studio android-studio-ide-201.6953283-mac.dmg
   3). pip3 install Appium-Python-Client (or import it by pyCharm  file |other settings | Preferences for new project | Project Interpreter)
@@ -25,14 +25,14 @@ Check tomorrow weather forecast from 9-day forecast screen
   12). code and debug
   13). optimize script
 
-3. A short description on your design, your test case
+*3. A short description on your design, your test case
    1). store apk to real device
    2). open app and click buttons necessary to go to the 9-Day page
    3). check all the weather infomation :temperature, precipitation, wind, tips, day_of_week are correct.
 
 
 
-Task 2:
+#Task 2:
 The information from Task 1 (9-day forecast) is from Hong Kong Observatory API, please:
 1. Capture the related API endpoint
 2. Send a request using this API endpoint with your preferred language
