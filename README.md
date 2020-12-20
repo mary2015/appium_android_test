@@ -24,7 +24,7 @@ Check tomorrow weather forecast from 9-day forecast screen
   11). start session and locate elements 
   12). code and debug
   13). optimize script
-  
+
 3. A short description on your design, your test case
    1). store apk to real device
    2). open app and click buttons necessary to go to the 9-Day page
@@ -70,7 +70,7 @@ steps:
             append two lines : 
                   const-string v2, "frida-gadget"
                   invoke-static {v2}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
-        
+
      19). apktool.yml update versionCode to versionCode+1
      20). apktool b  /Users/rongyao.ma/testfolder/package/MyObservatory.com  -o /Users/rongyao.ma/testfolder/MyObservatory.apk
      21). sign the new apk
@@ -85,6 +85,3 @@ steps:
      26). open MyObservatory app on phone
      27). frida -U gadget -l frida-sslpinning.js
      28). fiddler gets decrypted traffic
-        
-    
-    
