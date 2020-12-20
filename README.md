@@ -5,26 +5,26 @@
 * Script : 
       test_first.py
 * Setup guide :
-     - [x]1). download appium  http://appium.io/  Appium-mac-1.18.3.dmg
-     - [x]2). download android studio  https://developer.android.com/studio android-studio-ide-201.6953283-mac.dmg
-     - [x]3). pip3 install Appium-Python-Client (or import it by pyCharm  file |other settings | Preferences for new project | Project Interpreter)
-     4). pip3 install pytest (or import it by pyCharm file |other settings | Preferences for new project | Project Interpreter)
-     5). download apk https://apkpure.com/myobservatory-我的天文台/hko.MyObservatory_v1_0 MyObservatory 我的天文台_v4.17.12_apkpure.com.apk
-     6). env variables setting : 
+     - 1). download appium  http://appium.io/  Appium-mac-1.18.3.dmg
+     - 2). download android studio  https://developer.android.com/studio android-studio-ide-201.6953283-mac.dmg
+     - 3). pip3 install Appium-Python-Client (or import it by pyCharm  file |other settings | Preferences for new project | Project Interpreter)
+     - 4). pip3 install pytest (or import it by pyCharm file |other settings | Preferences for new project | Project Interpreter)
+     - 5). download apk https://apkpure.com/myobservatory-我的天文台/hko.MyObservatory_v1_0 MyObservatory 我的天文台_v4.17.12_apkpure.com.apk
+     - 6). env variables setting : 
            export ANDROID_HOME=/Users/rongyao.ma/Library/Android/sdk
            export PATH=$PATH:$MONO_HOME/bin:${GOPATH}/bin:$JAVA_HOME/bin:${ANDROID_HOME}/tools:${ANDROID_HOME}/platform-tools:${ANDROID_HOME}/build-tools/30.0.3:.
-     7). connect android device to macBook (enable USB debugging)
-     8). adb devices (list devices) 
-     9). start appium and start inspector session
-     10). set desired_capability :
-             {
+     - 7). connect android device to macBook (enable USB debugging)
+     - 8). adb devices (list devices) 
+     - 9). start appium and start inspector session
+     - 10). set desired_capability :
+            `< {
                  "platformName": "Android",
                  "deviceName": "MQS7N19603012111",
                  "app": "/Users/rongyao.ma/Downloads/MyObservatory_v4.17.12_apkpure.com.apk"
-             }
-     11). start session and locate elements 
-     12). code and debug
-     13). optimize script
+             }>`
+     - 11). start session and locate elements 
+     - 12). code and debug
+     - 13). optimize script
 
 3. A short description on your design, your test case
    1). store apk to real device
