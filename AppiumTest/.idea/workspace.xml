@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0056f66f-4b67-4bee-85d3-b0229300d7f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lmhSt0cRryKXQbm1S72S3fwZjG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.backup">
+    <configuration name="backup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_first.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.backup" />
+        <item itemvalue="Python.test_first" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0056f66f-4b67-4bee-85d3-b0229300d7f5" name="Default Changelist" comment="" />
+      <created>1608208176304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608208176304</updated>
+      <workItem from="1608208180991" duration="714000" />
+      <workItem from="1608209923496" duration="1729000" />
+      <workItem from="1608211737009" duration="1321000" />
+      <workItem from="1608214125800" duration="1115000" />
+      <workItem from="1608215951871" duration="928000" />
+      <workItem from="1608217772133" duration="1427000" />
+      <workItem from="1608219621109" duration="1576000" />
+      <workItem from="1608221431845" duration="1495000" />
+      <workItem from="1608223341118" duration="392000" />
+      <workItem from="1608230180841" duration="1193000" />
+      <workItem from="1608231989787" duration="570000" />
+      <workItem from="1608235294671" duration="337000" />
+      <workItem from="1608259452845" duration="1675000" />
+      <workItem from="1608261266728" duration="640000" />
+      <workItem from="1608278196248" duration="545000" />
+      <workItem from="1608302918947" duration="1077000" />
+      <workItem from="1608304741007" duration="1227000" />
+      <workItem from="1608306742173" duration="1230000" />
+      <workItem from="1608308558536" duration="1300000" />
+      <workItem from="1608310658093" duration="1156000" />
+      <workItem from="1608366460456" duration="293000" />
+      <workItem from="1608395371490" duration="741000" />
+      <workItem from="1608396673058" duration="324000" />
+      <workItem from="1608459960318" duration="667000" />
+      <workItem from="1608465005291" duration="402000" />
+      <workItem from="1608466912182" duration="471000" />
+      <workItem from="1608471200712" duration="397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="257" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608230219580">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="442" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1608230219580" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom" timestamp="1608472060707">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608235504221" />
+    <state width="867" height="208" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1608232031700" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1608471233513" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.813@0.25.1440.813" timestamp="1608472060707" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.815@0.25.1440.815" timestamp="1608396394210" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.819@0.25.1440.819" timestamp="1608460387329" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1608466976717" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1608311977402" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.822@0.25.1440.822" timestamp="1608311584565" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.823@0.25.1440.823" timestamp="1608305739615" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.824@0.25.1440.824" timestamp="1608303749118" />
+    <state width="1234" height="137" key="GridCell.Tab.0.bottom/0.25.1440.825@0.25.1440.825" timestamp="1608303077213" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center" timestamp="1608472060706">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608235504220" />
+    <state width="867" height="208" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1608232031699" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1608471233512" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.813@0.25.1440.813" timestamp="1608472060706" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.815@0.25.1440.815" timestamp="1608396394210" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.819@0.25.1440.819" timestamp="1608460387328" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1608466976716" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1608311977401" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.822@0.25.1440.822" timestamp="1608311584564" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.823@0.25.1440.823" timestamp="1608305739614" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.824@0.25.1440.824" timestamp="1608303749117" />
+    <state width="1234" height="137" key="GridCell.Tab.0.center/0.25.1440.825@0.25.1440.825" timestamp="1608303077212" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left" timestamp="1608472060706">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608235504219" />
+    <state width="867" height="208" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1608232031698" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1608471233511" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.813@0.25.1440.813" timestamp="1608472060706" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.815@0.25.1440.815" timestamp="1608396394209" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.819@0.25.1440.819" timestamp="1608460387328" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1608466976715" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1608311977400" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.822@0.25.1440.822" timestamp="1608311584563" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.823@0.25.1440.823" timestamp="1608305739613" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.824@0.25.1440.824" timestamp="1608303749116" />
+    <state width="1234" height="137" key="GridCell.Tab.0.left/0.25.1440.825@0.25.1440.825" timestamp="1608303077211" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right" timestamp="1608472060707">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608235504220" />
+    <state width="867" height="208" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1608232031699" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1608471233512" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.813@0.25.1440.813" timestamp="1608472060707" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.815@0.25.1440.815" timestamp="1608396394210" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.819@0.25.1440.819" timestamp="1608460387329" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1608466976716" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1608311977401" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.822@0.25.1440.822" timestamp="1608311584564" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.823@0.25.1440.823" timestamp="1608305739614" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.824@0.25.1440.824" timestamp="1608303749117" />
+    <state width="1234" height="137" key="GridCell.Tab.0.right/0.25.1440.825@0.25.1440.825" timestamp="1608303077212" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1608211108455">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608211108455" />
+    <state x="397" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1608471200688">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state x="397" y="256" key="com.intellij.ide.util.TipDialog/0.25.1440.805@0.25.1440.805" timestamp="1608230181578" />
+    <state x="397" y="257" key="com.intellij.ide.util.TipDialog/0.25.1440.807@0.25.1440.807" timestamp="1608396675708" />
+    <state x="397" y="257" key="com.intellij.ide.util.TipDialog/0.25.1440.809@0.25.1440.809" timestamp="1608471200688" />
+    <state x="397" y="258" key="com.intellij.ide.util.TipDialog/0.25.1440.814@0.25.1440.814" timestamp="1608395372425" />
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog/0.25.1440.815@0.25.1440.815" timestamp="1608223341543" />
+    <state x="397" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.819@0.25.1440.819" timestamp="1608459960465" />
+    <state x="397" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.820@0.25.1440.820" timestamp="1608466911990" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.25.1440.822@0.25.1440.822" timestamp="1608209924154" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.25.1440.823@0.25.1440.823" timestamp="1608310658084" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.25.1440.824@0.25.1440.824" timestamp="1608278196483" />
+    <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.25.1440.826@0.25.1440.826" timestamp="1608302919056" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AppiumTest$backup.coverage" NAME="backup Coverage Results" MODIFIED="1608471271332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppiumTest$FirstTest.coverage" NAME="FirstTest Coverage Results" MODIFIED="1608305739604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AppiumTest$test_first.coverage" NAME="test_first Coverage Results" MODIFIED="1608311438551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
