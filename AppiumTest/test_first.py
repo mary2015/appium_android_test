@@ -18,7 +18,7 @@ class TestForcast():
     driver.find_element_by_id("hko.MyObservatory_v1_0:id/btn_agree").click()
     driver.find_element_by_id("com.android.permissioncontroller:id/permission_deny_button").click()
     driver.find_element_by_id("hko.MyObservatory_v1_0:id/btn_friendly_reminder_skip").click()
-    yield
+    yield driver
     driver.close_app()
     driver.quit()
 
